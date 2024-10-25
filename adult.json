@@ -61,9 +61,7 @@
   ],
   "sites": [
 	{"key": "荐片","name": "荐┃片","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"},  
-	          {"key": "qilin","name": "麒麟资源站","type": 1,"api": "https://www.qilinzyz.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
         {"key": "huawei","name": "华为资源站","type": 1,"api": "https://cjhwba.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
-	{"key": "heimuer","name": "黑木耳资源站","type": 1,"api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
       {
       "key": "caoliuzyw",
       "name": "🔞草榴",
@@ -154,6 +152,7 @@
         "伦理片"
       ]
     },
+    {"key": "百万","name": "🔞百万","type": 1,"api": "https://api.baiwanapi.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1, "filterable": 0},	  
     {"key": "jipin","name": "🔞极品","type": 1,"api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
   {"key": "senlin","name": "🔞森林源","type": 1,"api": "https://beiyong.slapibf.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1, "filterable": 0},
   {"key": "fanhao","name": "🔞番号源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1, "filterable": 0},
