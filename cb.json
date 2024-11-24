@@ -147,7 +147,7 @@
         "伦理片"
       ]
     },
-    {"key": "百万","name": "🔞百万","type": 1,"api": "https://api.baiwanapi.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1, "filterable": 0},	  
+    {"key": "百万","name": "🔞百万","type": 1,"api": "https://api.bwzym3u8.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1, "filterable": 0},	  
     {"key": "jipin","name": "🔞极品","type": 1,"api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
   {"key": "senlin","name": "🔞森林源","type": 1,"api": "https://beiyong.slapibf.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1, "filterable": 0},
   {"key": "fanhao","name": "🔞番号源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1, "filterable": 0},
