@@ -69,6 +69,14 @@
       "searchable": 1,
       "changeable": 1
     },
+	      {
+      "key": "115",
+      "name": "🔞115",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1
+    },
 	
 	       {
       "key": "laosebi",
