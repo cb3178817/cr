@@ -69,6 +69,15 @@
       "searchable": 1,
       "changeable": 1
     },
+	
+	       {
+      "key": "laosebi",
+      "name": "🔞老色逼",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1
+    },
 	  {
       "key": "Jable",
       "name": "🔞Jable",
