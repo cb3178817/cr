@@ -177,7 +177,7 @@
   {"key":"大地采集","name":"🔞大地源","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0},
   { "key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
   {"key":"zp104","name":"🔞辣椒","type":0,"api":"https://apilj.com/api.php/Seacms/vod/","searchable":1,"quickSearch":1,"filterable":0},
-  {"key":"奥斯卡资源网","name":"🔞奥斯卡资源网","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","filterable":1},
+  {"key":"奥斯卡资源网","name":"🔞奥斯卡资源网","type":1,"api":"https://aosikazy.com/api.php/provide/vod/at/xml","filterable":1},
   {"key":"色猫","name":"🔞色猫","type":0,"api":"https://api.maozyapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"皇冠","name":"🔞桃花","type":1,"api":"https://thzy1.me/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
   {"key":"api.maozyapi.com","name":"🔞成人01","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
