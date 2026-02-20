@@ -30,7 +30,7 @@
             "key": "csp_SP360",
             "name": "🔞91MD",
             "type": 1,
-            "api": "http://91md.me/api.php/provide/vod/from/mdm3u8/",
+            "api": "https://www.9191md.me/api.php/provide/vod/from/mdm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
