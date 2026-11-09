@@ -80,7 +80,7 @@
   {"key":"zp100","name":"🔞乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"大地采集","name":"🔞大地源","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0},
   { "key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-  {"key":"看看","name":"🔞小鸡","type":0,"api":"https://api.xjzyapi.com/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"看看","name":"🔞黄色仓库","type":0,"api":" https://hsckzy888.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"桃花","name":"🔞桃花","type":1,"api":"https://thzy1.me/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
   {"key":"嘿嘿","name":"🔞嘿嘿","type":1,"api":"https://api.heiapi.cc/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
   {"key":"免费","name":"🔞免费资源站","type":1,"api":"https://yuanlib.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
