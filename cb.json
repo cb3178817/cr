@@ -39,7 +39,7 @@
       "key": "apilj",
       "name": "🔞看看资源",
       "type": 0,
-      "api": "https://jiexi.f-1.cc/index.php?url=",
+      "api": "https://f-1.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1
     },
