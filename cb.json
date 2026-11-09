@@ -37,9 +37,17 @@
         }, 
     {
       "key": "apilj",
-      "name": "🔞辣椒",
+      "name": "🔞看看资源",
       "type": 0,
-      "api": "https://apilj.com/api.php/provide/vod/at/xml/",
+      "api": "https://f-1.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1
+    },
+	      {
+      "key": "apilj2",
+      "name": "🔞星夜资源",
+      "type": 0,
+      "api": "https://xyezy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1
     },
@@ -65,22 +73,24 @@
         "伦理片"
       ]
     },
-    {"key": "百万","name": "🔞百万","type": 1,"api": "https://api.bwzyz.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1, "filterable": 0},	  
+    {"key": "百万","name": "🔞极品","type": 1,"api": "https://jipinvip1.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},	  
   {"key": "senlin","name": "🔞森林源","type": 1,"api": "https://beiyong.slapibf.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1, "filterable": 0},
   {"key": "fanhao","name": "🔞番号源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1, "filterable": 0},
   {"key":"*丝袜","name":"🔞丝袜源","type":1,"api":"https://siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"zp100","name":"🔞乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"大地采集","name":"🔞大地源","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0},
   { "key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-  {"key":"zp104","name":"🔞辣椒","type":0,"api":"https://apilj.com/api.php/Seacms/vod/","searchable":1,"quickSearch":1,"filterable":0},
-  {"key":"皇冠","name":"🔞桃花","type":1,"api":"https://thzy1.me/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
-  {"key":"奶香香","name":"🔞香料","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac =list","searchable":0,"quickSearch":0,"filterable":0},
-  {"key":"杏吧","name":"🔞杏吧","type":1,"api":"https://xingba111.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
-  {"key":"仓库","name":"🔞仓库","type":1,"api":"https://hsckzy888.com/api.php/provide/vod/from/hsckyun/at/xml/","searchable":0,"quickSearch":0,"filterable":0},
+  {"key":"火速","name":"🔞火速","type":0,"api":"https://api.huosuapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"桃花","name":"🔞桃花","type":1,"api":"https://thzy1.me/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
+  {"key":"嘿嘿","name":"🔞嘿嘿","type":1,"api":"https://api.heiapi.cc/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
+  {"key":"免费","name":"🔞免费资源站","type":1,"api":"https://yuanlib.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
+  {"key":"98","name":"🔞精品98","type":1,"api":"https://jp98.vip/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
+  {"key":"番茄","name":"🔞番茄","type":1,"api":"https://fqzy.me//api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
+  {"key":"黑料","name":"🔞黑料","type":1,"api":"https://heiliaozyapi.com/api.php/seaxml/vod/at/xml","searchable":0,"quickSearch":0,"filterable":0},
 
 
 	  
-  {"key":"香蕉","name":"🔞香蕉","type":1,"api":"https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0}
+  {"key":"红楼","name":"🔞红楼","type":1,"api":"https://www.hlzyapi.vip/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0}
 
   ],
   "doh": [
