@@ -9,6 +9,14 @@
       "searchable": 1,
       "changeable": 1
     },
+	       {
+      "key": "115",
+      "name": "🔞巨量",
+      "type": 1,
+      "api": "hhttps://api.juliang.live/api/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1
+    },
 	
 	       {
       "key": "laosebi",
@@ -37,9 +45,9 @@
         }, 
     {
       "key": "apilj",
-      "name": "🔞看看资源",
+      "name": "🔞滴滴",
       "type": 0,
-      "api": "https://f-1.cc/api.php/provide/vod/?ac=list",
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "changeable": 1
     },
@@ -47,7 +55,7 @@
       "key": "apilj2",
       "name": "🔞星夜资源",
       "type": 0,
-      "api": "https://xyezy.com/api.php/provide/vod/?ac=list",
+      "api": "https://xyezy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1
     },
