@@ -86,6 +86,7 @@
   {"key":"98","name":"🔞精品98","type":1,"api":"https://jp98.vip/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
   {"key":"番茄","name":"🔞番茄","type":1,"api":"https://fqzy.me//api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
   {"key":"黑料","name":"🔞黑料","type":1,"api":"https://heiliaozyapi.com/api.php/seaxml/vod/at/xml","searchable":0,"quickSearch":0,"filterable":0},
+  {"key":"芒果","name":"🔞芒果","type":1,"api":"https://caiji.mgzyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0,"filterable":0},
 
 
 	  
